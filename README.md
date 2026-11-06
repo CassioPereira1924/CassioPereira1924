@@ -1,95 +1,52 @@
-# Olá! 👋 Eu sou **SEU_USUARIO**
 
-## 💼 Sobre mim
+<h1 align="center">Olá! Eu sou um Analista de Dados 👋</h1>
 
-🎓 Bacharel em **Ciência da Computação**
+<h3 align="center">
+  Analista de Dados | SEFAZ-RJ | Docente SENAC-RJ
+</h3>
 
-🎓 Pós-graduado em **Gestão de Dados**
-
-👨‍🏫 **Docente de Tecnologia** no **SENAC RJ**
-
-📊 **Analista de Dados** na **Secretaria de Estado de Fazenda do Rio de Janeiro**
-
-Sou apaixonado por dados, tecnologia e educação, atuando no desenvolvimento de soluções orientadas por dados, Business Intelligence e Inteligência Artificial aplicada aos negócios.
-
----
-
-## 🚀 Tecnologias e Ferramentas
-
-### Linguagens
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Business Intelligence
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-6F2DBD?style=for-the-badge&logo=microsoft&logoColor=white)
-![Power Platform](https://img.shields.io/badge/Microsoft_Power_Platform-742774?style=for-the-badge&logo=microsoft&logoColor=white)
-
-### Cloud
-
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-### Ciência de Dados
-
-![Data Analytics](https://img.shields.io/badge/Data_Analytics-00599C?style=for-the-badge)
-![Descriptive Analytics](https://img.shields.io/badge/Descriptive_Analytics-00A8E8?style=for-the-badge)
-![Predictive Analytics](https://img.shields.io/badge/Predictive_Analytics-FF6F00?style=for-the-badge)
-
-### Gestão
-
-![Project Management](https://img.shields.io/badge/Project_Management-0A66C2?style=for-the-badge)
-![Lean Six Sigma Yellow Belt](https://img.shields.io/badge/Lean_Six_Sigma-Yellow_Belt-F4C430?style=for-the-badge)
+<p align="center">
+  Especialista em Gestão de Dados, Estatística e Deep Learning.
+  <br>
+  Transformando dados em conhecimento e inteligência para a tomada de decisões.
+</p>
 
 ---
 
-## 🏆 Certificações
+### 👨‍💻 Sobre mim
 
-![PL-300](https://img.shields.io/badge/Microsoft-PL--300-F2C811?style=for-the-badge&logo=microsoft&logoColor=black)
-
-- ✅ Microsoft Certified: Power BI Data Analyst Associate (PL-300)
-- ✅ Lean Six Sigma Yellow Belt
-
----
-
-## 📈 Áreas de Atuação
-
-- 📊 Business Intelligence
-- 📉 Análise Descritiva
-- 🤖 Análise Preditiva
-- 🐍 Python para Ciência de Dados
-- 🗄️ SQL
-- ☁️ Azure
-- 📊 Microsoft Fabric
-- ⚡ Microsoft Power Platform
-- 📋 Gestão de Projetos
-- 📚 Educação em Tecnologia
-- 📈 Visualização de Dados
-- 🤖 Inteligência Artificial aplicada aos Negócios
+- 📊 Analista de Dados do Estado do Rio de Janeiro.
+- 🏛️ Atuação na Secretaria de Estado de Fazenda do Rio de Janeiro (SEFAZ-RJ).
+- 🎓 Docente no SENAC RJ.
+- 🧠 Especializado em Gestão de Dados e Deep Learning.
+- 📈 Interesse em Ciência de Dados, Inteligência Artificial e Business Intelligence.
+- 🚀 Desenvolvimento de soluções orientadas por dados.
 
 ---
 
-## 📚 Atualmente estudando
+### 🛠️ Tecnologias e conhecimentos
 
-- Inteligência Artificial Generativa
-- Machine Learning
-- Engenharia de Dados
-- Microsoft Fabric
-- Azure AI
-
----
-
-## 📫 Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/SEU_USUARIO)
-
-[![Email](https://img.shields.io/badge/Email-Contato-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@email.com)
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Estatística_Descritiva-4B8BBE?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
 
 ---
 
-## 💡 Frase
+### 🌐 Conecte-se comigo
 
-> *"Transformando dados em conhecimento e conhecimento em decisões."*
+<p align="left">
+  <a href="https://www.linkedin.com/in/SEU-USUARIO-LINKEDIN/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
+
+<p align="center">
+  <i>"Dados bem trabalhados são o ponto de partida para decisões inteligentes."</i>
+</p>
